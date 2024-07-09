@@ -1,0 +1,4 @@
+PyAutoGUI
+colorama
+python-csv
+mysql-connector-python 

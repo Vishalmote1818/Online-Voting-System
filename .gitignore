@@ -1,0 +1,10 @@
+.README.md
+/test
+plan.txt
+.vscode
+/__pycache__
+
+/DATABASE_SQL/__pycache__
+
+
+testing/test.py

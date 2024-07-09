@@ -1,55 +1,37 @@
-# Online-Voting-System
-This is an Online Voting System made using python as Desktop Application .
+# VOTING MACHINE 🧑‍💻📊
 
-Overview
-This repository contains a desktop application for an Online Voting System implemented using socket programming in Python. The system utilizes multithreading to handle concurrent connections efficiently, allowing multiple clients to connect simultaneously and participate in the voting process.
+<h4> -SCHOOL PROJECT </h4>
 
-Features
-Socket Programming
+# MODULES NEEDED ⚙-
 
-Utilizes Python's socket module for communication between clients (voters) and the server.
-Establishes reliable connections and handles data transmission securely.
-Multithreading
+```sh
+python -m pip install --upgrade pip
+```
 
-Implements multithreading to handle multiple client requests concurrently.
-Ensures efficient handling of voting requests without blocking other clients.
-Voter Authentication
+```sh
+pip install PyAutoGUI
+pip install colorama
+pip install python-csv
+```
+<var><b><u>OR</u></b></var>
+```sh 
+$ py -m pip install -r requirements.txt
+```
+^^^^^^^^^^^ WILL DOWNLOAD ALL NESSESSARY MODULES
 
-Authenticates voters securely before allowing them to cast their votes.
-Ensures the integrity and confidentiality of the voting process.
-Real-time Updates
-
-Provides real-time updates on voting results as votes are cast.
-Enhances transparency and immediacy of election outcomes.
-Admin Dashboard
-
-Includes an admin interface to manage elections, view voting statistics, and monitor voting activity.
-Allows administrators to oversee the entire voting process and make informed decisions.
+### Language Used 🐍
+<h6>Python 3.9</h6>
+<div align="left">
+      <h1> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="80px"><br/></h1>
+      
 
 
-Technologies Used
-Python: Core programming language for both client-side and server-side development.
-Socket Programming: Facilitates communication between clients and the server.
-Multithreading: Enables concurrent handling of multiple client connections.
-GUI Framework (optional): If applicable, mention the GUI framework used for the client-side interface.
+<div align="left">
+      <b><ins>Modules Docs 📜<ins></b><br>
+      <var><a href="https://pypi.org/project/PyAutoGUI/">pip install PyAutoGUI</a></var> <br>
+      <var><a href="https://pypi.org/project/colorama/">pip install colorama</a></var> <br>
+      <var><a href="https://pypi.org/project/python-csv/">pip install python-csv</a></var>
+</div>
 
-Installation and Usage
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/online-voting-system.git
-cd online-voting-system
-Install dependencies (if any):
-
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-Start the server:
-Copy code
-python server.py
-Launch the client application:
-Copy code
-python client.py
-Follow the on-screen instructions to participate in the voting process.
+<div align="center">
+      <h1> <img src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-1024.png" width="100px"><br/></h1>
